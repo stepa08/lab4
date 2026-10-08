@@ -10,5 +10,5 @@ elif age <= 17:
     print("Подросток")
 elif age <= 64:
     print("Взрослый")
-else: 
+else:
     print("Пожилой")
