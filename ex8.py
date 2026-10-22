@@ -1,5 +1,5 @@
 # Вводим номер месяца
-numOfYear = int(input("Введите номер месяца: "))
+numOfMonth = int(input("Введите номер месяца: "))
 
 # Определяем сезон по номеру месяца
 match numOfMonth:
