@@ -2,7 +2,7 @@
 numOfYear = int(input("Введите номер месяца: "))
 
 # Определяем сезон по номеру месяца
-match numOfYear:
+match numOfMonth:
     case 1 | 2 | 12:
         print("Ваш сезон - зима")
     case 3 | 4 | 5:
